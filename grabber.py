@@ -3,7 +3,7 @@ import json
 import base64
 import time
 
-GITHUB_TOKEN = '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'
+GITHUB_TOKEN = 'your_token_here'
 
 headers = {
     'Accept': 'application/vnd.github+json',
